@@ -4,15 +4,6 @@
 
 A Python-based web scraper to extract real-time and historical financial data 📈 from [Yahoo Finance](https://finance.yahoo.com/). Perfect for traders, analysts, or data enthusiasts looking to automate financial data collection.
 
----
-
-## 🎥 Demo
-# Click on the image to watch video
-
-[![Watch the video](assets/image.png)](https://youtu.be/PBeBsxIbzp8)
-
----
-
 ## ⚙️ Features
 
 - 📊 Extracts:
